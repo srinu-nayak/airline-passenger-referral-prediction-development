@@ -45,3 +45,5 @@ This project focuses on leveraging machine learning techniques to predict whethe
 * F1 Score	 93%
 * ROC-AUC Score	93%
 
+![img.png](img.png)
+
