@@ -36,7 +36,7 @@ This project focuses on leveraging machine learning techniques to predict whethe
 * Machine Learning: scikit-learn
 * Statistical Analysis: statsmodels
 
-## Results (Example Metrics)
+## Results
 
 * Metric     Value
 * Accuracy	 94%
